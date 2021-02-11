@@ -1,0 +1,14 @@
+
+.texto {
+	width:100%;
+	padding:1%;
+	text-align:justify;
+}
+
+.formulario {
+	width:100%;
+	padding:1%;
+	background-color:#F5F5F5;
+	border-radius:2px;
+	border:1px #ccc solid;
+}

@@ -1,0 +1,14 @@
+{
+    "name": "htdocs/projetof",
+    "description": "Projeto com BD",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cristina Jung",
+            "email": "cristijung@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
